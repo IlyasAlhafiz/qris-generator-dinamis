@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    margin: 0;
+    padding: 20px;
+}
+.card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+h2, h3 { margin-top: 0; color: #333; }
+label { display: block; margin-bottom: 5px; font-weight: bold; }
+input, button, textarea { width: 100%; padding: 10px; margin: 6px 0 12px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; }
+button { background: #007bff; color: #fff; cursor: pointer; border: none; }
+button:hover { background: #0056b3; }
+.qr-img { margin-top: 10px; text-align: center; }
