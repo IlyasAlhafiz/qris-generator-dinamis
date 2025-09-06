@@ -10,7 +10,7 @@ Aplikasi ini memungkinkan kamu upload QRIS, melihat data merchant, dan membuat *
 - Generate QR image langsung.
 
 ## Instalasi
-1. Clone repo ini:
+Clone repo ini:
 ```bash
 git clone https://github.com/IlyasAlhafiz/qris-generator-dinamis.git
 cd qris-generator-dinamis
